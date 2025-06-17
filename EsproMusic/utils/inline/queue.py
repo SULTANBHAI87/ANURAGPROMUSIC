@@ -71,7 +71,6 @@ def aq_markup(_, chat_id):
             InlineKeyboardButton(text="‣‣I", callback_data=f"ADMIN Skip|{chat_id}"),
             InlineKeyboardButton(text="▢", callback_data=f"ADMIN Stop|{chat_id}"),
         ],
-          [InlineKeyboardButton(text=" + 𝘼𝘿𝘿 𝙈𝙀 𝙏𝙊 𝙔𝙊𝙐𝙍 𝙂𝙍𝙊𝙐𝙋 + ", url=f"https://t.me/MAHI_X_MUSIC_BOT?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users")],   
-        
+          
     ]
     return buttons
