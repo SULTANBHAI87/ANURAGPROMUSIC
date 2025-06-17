@@ -68,7 +68,7 @@ def stream_markup_timer(_, chat_id, played, dur):
             )
         ],
        
-        [InlineKeyboardButton(text=" + 𝘼𝘿𝘿 𝙈𝙀 𝙏𝙊 𝙔𝙊𝙐𝙍 𝙂𝙍𝙊𝙐𝙋 + ", url=f"https://t.me/MAHI_X_MUSIC_BOT?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users")],   
+        [InlineKeyboardButton(text=" + 𝘼𝘿𝘿 𝙈𝙀 𝙏𝙊 𝙔𝙊𝙐𝙍 𝙂𝙍𝙊𝙐𝙋 + ", url=f"https://t.me/{app.username}?startgroup=true")],   
 
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
     ]
