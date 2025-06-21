@@ -42,7 +42,7 @@ SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/All_super_music")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Sweet_chat_aao")
 
 API_URL = getenv("API_URL", 'https://api.thequickearn.xyz') 
-API_KEY = getenv("API_KEY", 'NxGBNexGenBots5f9035')
+API_KEY = getenv("API_KEY", 'NxGBNexGenBots41dd4c')
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -80,7 +80,7 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/6bmead.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/1fbbu7.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://files.catbox.moe/gmx3wd.jpg"
