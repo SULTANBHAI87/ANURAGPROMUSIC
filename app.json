@@ -45,7 +45,7 @@
       "SUPPORT_CHANNEL": {
         "description": "CHANNEL",
         "value": "https://t.me/All_super_music",
-        "required": true
+        "required": fales
       },
       "SUPPORT_CHAT": {
         "description": "GROUP",
