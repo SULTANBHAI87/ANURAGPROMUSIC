@@ -42,11 +42,6 @@
         "value": "",
         "required": true
       },
-      "SUPPORT_CHANNEL": {
-        "description": "CHANNEL",
-        "value": "https://t.me/All_super_music",
-        "required": fales
-      },
       "SUPPORT_CHAT": {
         "description": "GROUP",
         "value": "https://t.me/Sweet_chat_aao",
